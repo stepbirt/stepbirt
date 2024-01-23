@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Punnatat Jiarawongsakul
 - 👀 I’m interested in fullstack developer
-- 🌱 I’m currently learning web stack
 - 📫 How to reach me https://www.facebook.com/birt.punnatat
 
 <!---
